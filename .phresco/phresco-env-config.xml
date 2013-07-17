@@ -1,0 +1,12 @@
+<environments>
+    <environment default="true" desc="Production Environment is used for Development purpose only" name="Production">
+        <WebService desc="" name="Native_Eshop">
+            <port>2020</port>
+            <password/>
+            <context>nodejs</context>
+            <host>172.16.29.180</host>
+            <protocol>http</protocol>
+            <username/>
+        </WebService>
+    </environment>
+</environments>
